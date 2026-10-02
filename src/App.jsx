@@ -45,7 +45,7 @@ function App() {
     <div className="app">
       <header className="header">
         <h1 className="header-title">배포 인증 방명록</h1>
-        <p className="header-sub">김수현이 배포세미나 끝내주면 밥을 먹을 수 있어요</p>
+        <p className="header-sub">김수현이 배포세미나 끝내주면 빙수를 먹을 수 있어요</p>
         {DEPLOYER_NAME && (
           <div className="header-deploy-badge">
             <span>🚀</span>
